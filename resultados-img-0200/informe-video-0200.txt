@@ -1,0 +1,11 @@
+INFORME DE PROCESAMIENTO DE VIDEO
+=============================================
+Video: gatito_0200_ale.mp4
+Resolucion original: 1080 x 1920
+FPS originales: 29.97
+Duracion estimada: 18.59 s
+Fotogramas leidos: 557
+Fotogramas guardados: 10
+FPS promedio de procesamiento: 46.55
+Tiempo total de ejecucion: 28.45 s
+Intervalo de guardado: 2.0 s
